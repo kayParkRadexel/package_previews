@@ -1,0 +1,7 @@
+Not applicable : Nibable is boradly used for NIfTI, which is an open file format commonly used to store brain imaging data obtained using MRI methods.
+
+Neuroimaging
+in
+formatics
+Technology
+Initiative

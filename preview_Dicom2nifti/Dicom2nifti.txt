@@ -1,0 +1,7 @@
+Not applicable : Dicom2nifti is to convert DICOM series into nifti files quickly.
+
+Neuroimaging
+in
+formatics
+Technology
+Initiative
